@@ -41,3 +41,6 @@ cat $subdomain_path/found.txt | grep $domain | sort -u | httprobe -prefer-https 
 
 echo -e "${RED} [+] Taking dem screenshotz...${RESET}"
 gowitness file -f $subdomain_path/alive.txt -P $screenshot_path/ --no-http
+
+echo -e "${RED} [+] Activating Photon Cannons...${RESET}"
+photon -u $domain
