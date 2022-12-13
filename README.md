@@ -13,4 +13,4 @@ Note: Uncomment Amass if you want o run a deeper recon (Takes longer to run).
 # Usage
 chmod +x OsintRecon.sh
 
-./OsintRecon.sh website.com
+./OsintRecon.sh domain.com
