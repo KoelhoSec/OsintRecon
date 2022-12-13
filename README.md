@@ -5,7 +5,7 @@ It will check whois,subdomain enumeration checking live subdomains, and take scr
 
 @Koelhosec - based on TCM Security @TheCyberMentor - OSINT Course
 
-#Usage:
+# Usage
 chmod +x OsintRecon.sh
 
 ./OsintRecon.sh website.com
