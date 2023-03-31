@@ -6,7 +6,7 @@ It will check whois, subdomain enumeration checking live subdomains, take screen
 Install Photon:
 apt install photon
 
-Note: Uncomment Amass if you want o run a deeper recon (Takes longer to run).
+Note: Uncomment Amass if you want to run a deeper recon (Takes longer to run).
 
 @Koelhosec - based on TCM Security @TheCyberMentor - OSINT Course
 
